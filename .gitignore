@@ -1,0 +1,8 @@
+.vscode/
+managed_components/
+build/
+*.lock
+*.old
+
+
+
